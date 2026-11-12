@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1, 
+        "capacidade": 500, 
+        "ocupacao": 420, 
+        "nome": "Hospital Bom Jesus"
+    },
+
+    {
+        "id": 2,
+        "capacidade": 500, 
+        "ocupacao": 420, 
+        "nome": "Hospital Santa Maria"
+    },
+
+    {
+        "id": 3, 
+        "capacidade": 500, 
+        "ocupacao": 420, 
+        "nome": "Hospital Bom Jesus2"
+    },
+
+    {
+        "id": 4, 
+        "nome": "Hospital Santa Maria2" 
+    },
+
+    {
+        "id": 5, 
+        "capacidade": 500, 
+        "ocupacao": 420, 
+        "nome": "Hospital Santa Maria 3"
+    }
+
+]

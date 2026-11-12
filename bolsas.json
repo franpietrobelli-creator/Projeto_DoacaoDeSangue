@@ -1,0 +1,44 @@
+[
+    {
+        "id": 2,
+        "tipo": "A",
+        "quantidade": 10,
+        "fator_RH": false
+    },
+    {
+        "id": 3,
+        "tipo": "B",
+        "quantidade": 13,
+        "fator_RH": true
+    },
+    {
+        "id": 4,
+        "tipo": "B",
+        "quantidade": 8,
+        "fator_RH": false
+    },
+    {
+        "id": 5,
+        "tipo": "AB",
+        "quantidade": 6,
+        "fator_RH": true
+    },
+    {
+        "id": 6,
+        "tipo": "AB",
+        "quantidade": 9,
+        "fator_RH": false
+    },
+    {
+        "id": 7,
+        "tipo": "O",
+        "quantidade": 10,
+        "fator_RH": true
+    },
+    {
+        "id": 8,
+        "tipo": "O",
+        "quantidade": 4,
+        "fator_RH": false
+    }
+]

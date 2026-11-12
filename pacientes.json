@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+
+        "cadastro": 
+        [
+            {
+                "nome": "Arimael", 
+                "CPF": "123.456.789-10", 
+                "telefone": "45 94002-8922", 
+                "sexo": "Feminino", 
+                "idade": 35, 
+                "endereco": "Av. Tiradentes, 100"
+                }
+            ],
+        "informacoes_medicas": 
+        [
+            {
+                "altura": 1.80, 
+                "peso": 77, 
+                "tipo_sanguineo": "O", 
+                "fator_RH": true, 
+                "data_do_internamento": "15/03/2026"
+                }
+            ]
+    },
+    {
+        "id": 2,
+        "cadastro": [
+            {
+                "nome": "Ismael",
+                "CPF": "109.876.543-21", 
+                "telefone": "48 92298-2004", 
+                "sexo": "Masculino", 
+                "idade": 18, 
+                "endereco": "Av. Colombo, 250"
+                }
+            ],
+        "informacoes_medicas": 
+        [
+            {
+                "altura": 1.85, 
+                "peso": 65, 
+                "tipo_sanguineo": "AB", 
+                "fator_RH": true, 
+                "data_do_internamento": "22/07/2025"
+                }
+            ]
+    },
+    {
+        "id": 3,
+        "cadastro": 
+        [
+            {
+                "nome": "Ariane", 
+                "CPF": "894.071.666-69", 
+                "telefone": "45 99101-9491", 
+                "sexo": "Feminino", 
+                "idade": 18, 
+                "endereco": "Av. Porto Alegre, 271"
+            }
+        ],
+        "informacoes_medicas": 
+        [
+            {
+                "altura": 1.66, 
+                "peso": 80, 
+                "tipo_sanguineo": "B", 
+                "fator_RH": false, 
+                "data_do_internamento": "10/04/2025"
+            }
+        ]
+    }
+]
